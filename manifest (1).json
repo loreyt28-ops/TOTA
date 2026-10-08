@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Tournament team App",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "TOTAFF",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Free Fire Tournament App TOTA FF"
+}
